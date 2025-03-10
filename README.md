@@ -33,10 +33,6 @@ Hi, I'm **Ryan McCullough**, Vice President of Technology Solutions & Research w
 ## 📚 Publications & Speaking Engagements
 
 - **"Exploring Emerging Behaviors in AI: Challenges and Opportunities"** – Doctoral Praxis Research, Ongoing
-- **"Predictive Analytics in the DoD: Bridging PPBE and Emerging Threats"** – Presentation, 2024
-- **"AI and Predictive Analytics for Adaptive Defense Strategies"** – Published article, 2023
-- **"Mitigating Risks of AI Emergence in Critical Systems"** – Panelist, 2023
-- **"Emergent AI and Strategic Decision-Making in the DoD"** – Webinar, 2022
 
 ---
 

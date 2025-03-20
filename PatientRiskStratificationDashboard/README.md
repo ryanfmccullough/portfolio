@@ -29,5 +29,3 @@ Export query results into a BI tool (e.g., Tableau, Power BI) or a Python-based 
 Trend Analysis
 
 Potential to extend queries for analyzing readmission trends over time.
-
-- [Patient Risk Stratification Dashboard](./PatientRiskStratificationDashboard)

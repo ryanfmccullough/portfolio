@@ -26,7 +26,7 @@ Hi, I'm **Ryan McCullough**, Vice President of Technology Solutions & Research w
 
 ## 🚀 Projects
 
-**TBD**: This section will be updated with key projects I’ve worked on. Stay tuned!
+- [Patient Risk Stratification Dashboard](./PatientRiskStratificationDashboard)
 
 ---
 

@@ -54,4 +54,4 @@ This project showcases how to generate real-time insights from patient event dat
 
 ---
 ## License
-This project is open source under the [MIT License](../LICENSE). 
+This project is open source under the [MIT License](../LICENSE). Feel free to use or modify the code as needed.

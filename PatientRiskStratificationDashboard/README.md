@@ -30,3 +30,4 @@ Trend Analysis
 
 Potential to extend queries for analyzing readmission trends over time.
 
+- [Patient Risk Stratification Dashboard](./PatientRiskStratificationDashboard)

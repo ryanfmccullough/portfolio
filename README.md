@@ -27,6 +27,8 @@ Hi, I'm **Ryan McCullough**, Vice President of Technology Solutions & Research w
 ## 🚀 Projects
 
 - [Patient Risk Stratification Dashboard](./PatientRiskStratificationDashboard)
+- [Real-Time Care Coordination Analytics](./RealTimeCareCoordinationAnalytics)
+- [Compliance & Data Quality Monitoring](./ComplianceDataQualityMonitoring) <!-- or future projects -->
 
 ---
 
